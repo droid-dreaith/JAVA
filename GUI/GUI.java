@@ -10,6 +10,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
+//Enhance version of code using OOP
 
 public class GUI implements ActionListener{
 
@@ -70,6 +71,10 @@ public class GUI implements ActionListener{
 
 
 		/*
+
+  simple code from the tutorial of Alex Leee(YT) :
+
+  
 
 		JFrame frame = new JFrame();
 		
